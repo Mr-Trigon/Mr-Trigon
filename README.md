@@ -140,9 +140,6 @@
 
 ## 📊 Github Stats
 
-
-
-  <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   &nbsp;
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=7oSkaaa&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="7oSkaaa" height="192px"/>
